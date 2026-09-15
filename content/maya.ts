@@ -22,7 +22,7 @@ export const maya: SiteContent = {
     title: 'Anxiety, Trauma & Burnout Therapy in Santa Monica, CA | Dr. Maya Reynolds, PsyD',
     description:
       'Dr. Maya Reynolds, PsyD is a licensed clinical psychologist in Santa Monica, CA offering therapy for anxiety, trauma and burnout. CBT, EMDR and mindfulness-based care. In-person in Santa Monica and secure telehealth across California.',
-    canonical: 'https://maya-reynolds-therapy.netlify.app/',
+    canonical: 'https://mayareynoldstherapy.netlify.app/',
     locality: 'Santa Monica',
     region: 'CA'
   },
